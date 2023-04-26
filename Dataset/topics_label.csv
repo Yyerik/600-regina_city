@@ -1,0 +1,154 @@
+Topic,Count,Topic_cat_l3,Topic_cat_l2,Topic_cat_l1
+-1,633,-1_tree_hazard_pruning_path,tree,landscape construction and management
+0,176,0_weeds_alley_104litter_regularlyweeds,weeds,landscape construction and management
+1,106,1_key_complaint_issue_this,maintenance,maintenance
+2,94,2_safety_conditions_unsafe_unsanitary,unsafe_conditions,maintenance
+3,82,3_mowing_space_schedule_quality,mowing,landscape construction and management
+4,78,4_littering_raking_digging_pets,clean garbage_can/digging_holes,sanitary
+5,75,5_lack_maintenance_of_maintenancel,maintenance,maintenance
+6,73,6_visitor_complaint_this_key,maintenance,maintenance
+7,70,7_maintenance_repairs_youlack_great,maintenance,maintenance
+8,67,8_control_weed_parkweed_requiredweed,weeds,landscape construction and management
+9,66,9_vandalism_graffiti_inappropriate_vandalized,vandalism,public facilities 
+10,64,10_irrigation_pump_sump_sod,irrigation,maintenance
+11,60,11_removal_snow_clearing_sidewalk,remove snow/clear sidewalk,winter service
+12,57,12_fence_fencing_fences_along,Tree/Fence,landscape construction and management
+13,52,13_trees_blocking_tree_down,Tree_pruning,landscape construction and management
+14,51,14_litter_porta_litter2_vehicular,litter,sanitary
+15,48,15_drainage_ditch_puddles_poor,drainage,maintenance
+16,47,16_cutting_cut_uncut_grass,grass_cut,landscape construction and management
+17,46,17_leak_leakage_leaking_water,drainage,maintenance
+18,45,18_damage_injury_property_car,wrong,security administration 
+19,45,19_sprinklers_sprinkler_system_11pc,sprinkler,maintenance
+20,44,20_hole_ground_holes_sinkholes,hole,landscape construction and management
+21,42,21_bench_missing_benches_seating,missing bench,public facilities 
+22,41,22_access_route_location_permission,require access,security administration 
+23,40,23_gravel_muddy_sand_mud,clear gravel,sanitary
+24,40,24_gate_gates_security_locked,unlock gate/ broken locks,security administration 
+25,38,25_lawn_maintenance_facility_scraping,lawn maintenance,landscape construction and management
+26,37,26_grass_toovergrown_dry_stream,grass_cut,landscape construction and management
+27,37,27_parks_park_inefficient_maintenance,maintenance,maintenance
+28,36,28_nan___,maintenance,maintenance
+29,35,29_rink_outdoor_skating_hockey,rink,public facilities 
+30,34,30_weeding_seeding_bouquet_trimming,Weeds,landscape construction and management
+31,33,31_overgrowth_growth_iolitter_pickers,grass_cut,landscape construction and management
+32,33,32_permit_permits_bylaw_allowed,access permit,security administration 
+33,33,33_swing_tire_broken_chain,maintenance,public facilities 
+34,32,34_noise_traffic_pedestrian_cyclists,noise,security administration 
+35,32,35_debris_dust_crusher_litter,litter,sanitary
+36,32,36_branches_branch_fallen_tree,Tree,landscape construction and management
+37,31,37_conservation_usage_drought_water,sprinkler,maintenance
+38,30,38_pathway_pathways_clearing_blocked,pathway,security administration 
+39,30,39_incomplete_work_information_providing,incomplete_work,maintenance
+40,30,40_appearance_unkempt_neglected_general,appearance,landscape construction and management
+41,29,41_maintained_parks_park_watered,maintenance,maintenance
+42,29,42_watering_drought_inconsistency_rain,drought,landscape construction and management
+43,29,43_recreation_parks_park_271,maintenance,maintenance
+44,29,44_overgrown_grass_drivethe_attempted,grass_cut,landscape construction and management
+45,28,45_garbage_capacity_possiblegarbage_groundslitter,litter,sanitary
+46,26,46_easement_easel_access_sloping,easement,easement
+47,26,47_snow_driveway_vehicles_snowy,snow_driveway,winter service
+48,26,48_trash_homelessness_unhealthy_callers,can,sanitary
+49,24,49_too_long_high_grass,grass_cut,landscape construction and management
+50,24,50_parking_illegal_buses_activity,parking,security administration 
+51,24,51_garbage_park_trash_derby,litter,sanitary
+52,23,52_playground_covid_equipment_unsafe,playground_unsafe,maintenance
+53,23,53_feces_dog_poop_excrement,poop,sanitary
+54,23,54_gopher_holes_hole_paraphernalia,gopher_holes,animal control
+55,23,55_lights_solar_parameters_button,lights,maintenance
+56,23,56_grassweeds_and_slope_scraggly,grass/weeds,landscape construction and management
+57,23,57_basketball_court_soccer_tennis,court,public facilities 
+58,23,58_vegetation_overgrown_much_thisdyingdead,overgrown_dead,landscape construction and management
+59,22,59_foxtail_foxtails_fox_tails,fox,animal control
+60,22,60_waste_wasting_water_medical,sprinkler,maintenance
+61,22,61_date_end_july_nbspend,maintenance,maintenance
+62,22,62_height_tall_berm_grass,grass,landscape construction and management
+63,22,63_driving_trucks_cars_on,car_grass,security administration 
+64,22,64_accessibility_waterway_disabilities_iewalkability,walkability,security administration 
+65,22,65_can_cans_full_garbage,can,sanitary
+66,21,66_fountain_schedule_working_watering,fountain,public facilities 
+67,21,67_inadequate_double_subdivision_even,maintenance,maintenance
+68,21,68_sign_signs_required_signature,sign,security administration 
+69,21,69_beaver_beavers_chewing_activity,beaver,animal control
+70,21,70_communication_lack_actioninaction_interdepartmental,maintenance,maintenance
+71,21,71_marker_markers_raised_plot,marker,security administration
+72,21,72_lack_water_umbrella_of,lack_water,security administration
+73,20,73_pathways_snow_mcintosh_snowy,pathways_snow,winter service
+74,20,74_dandelions_painting_dandelionstall_dandelion,dandelion,landscape construction and management
+75,20,75_dogs_offleash_leash_escaping,dogs_offleash,security administration
+76,19,76_asphalt_pavement_paved_sidewalkroadway,sidewalk,security administration 
+77,19,77_easement_easementgreenspace_upkeep_easements,easement,easement
+78,18,78_liability_skateboard_responsibilityfence_release,maintenance,maintenance
+79,18,79_care_lawn_lawnslawn_lawnmowerslawn,lawn,landscape construction and management
+80,18,80_invasive_species_habitat_drinvasive,dangerous plant,landscape construction and management
+81,18,81_headstone_sinking_sunken_uneven,lift headstone,maintenance
+82,18,82_ice_nbspice_thin_because,thin ice,winter service
+83,18,83_wildflower_marsh_herboulevard_weeds,Weeds,landscape construction and management
+84,18,84_trespassing_trespassers_vandalism_policetrespassing,vandalism trepassing,security administration 
+85,17,85_easement_access_easementvisitor_accessing,easement,easement
+86,17,86_bins_bin_trash_recycling,bin,sanitary
+87,17,87_dead_trees_spruce_dieing,dead_trees,landscape construction and management
+88,17,88_walkway_cleared_walkways_plowed,walkway,security administration 
+89,17,89_system_spraying_irrigation_working,irrigation,landscape construction and management
+90,17,90_equipment_box_broken_machines,maintenance,maintenance
+91,17,91_mosquitoes_mosquitos_mosquito_standing,mosquito,animal control
+92,17,92_backyard_camping_pooling_pool,drainage,maintenance
+93,16,93_trashlitter_trash_litter_litteringtrash,litter,sanitary
+94,16,94_overgrown_itweeds_weedsneglected_courtney,weeds,landscape construction and management
+95,16,95_sprinkler_head_broken_working,sprinkler,maintenance
+96,16,96_dandelions_nimbyism_ball_diamond,dandelions,landscape construction and management
+97,16,97_damage_wastage_water_foundation,sprinkler,maintenance
+98,16,98_flooding_stormwater_drainage_waterflooding,drainage,maintenance
+99,16,99_cleanliness_cleanup_inconsiderate_disgusting,garbage,sanitary
+100,16,100_leaves_leaf_cleanup_buildingdrainage,leaves,landscape construction and management
+101,16,101_glass_phone_broken_cell,glass,sanitary
+102,16,102_working_lights_not_light,lights,public facilities
+103,16,103_break_main_line_non,watermain break,maintenance
+104,16,104_flooding_venturing_floodingdickinson_flooded,flood,maintenance
+105,16,105_death_dead_animal_decay,carcass,animal control 
+106,16,106_boulevard_ave_25th_patchy,Boulevard ,security administration 
+107,16,107_littering_public_health_littervandalism,litter,sanitary
+108,16,108_carcass_animal_carcasses_toanimal,animal carcass,animal control
+109,15,109_monument_tilting_monuments_leaning,monument,customer service
+110,15,110_overflowing_overflow_bin_garbage,bin,sanitary
+111,15,111_grave_cemetery_graves_difficulty,grave,customer service
+112,15,112_overgrown_toeasement_tocommunity_iteasement,easement,easement
+113,15,113_vehicle_truck_access_cavaliercomplaint,vehicle_access,security administration 
+114,14,114_cleared_path_paths_clear,path,security administration 
+115,14,115_ground_seeping_bottle_nasty,leaking,sanitary
+116,14,116_bushes_shrubs_shrub_shrubbery,shurb,landscape construction and management
+117,14,117_thistles_thistle_owweeds_canada,thistle overgrowth,landscape construction and management
+118,14,118_cleanliness_washrooms_maintainence_infield,maintenance,maintenance
+119,14,119_weedstrees_weedwhackers_harming_trees,weeds,landscape construction and management
+120,14,120_signage_201_bells_advertisement,add warning sign,security administration 
+121,13,121_irrigation_leaking_sairrigation_uckthe,leaking,maintenance
+122,13,122_visitor_safety_movie_fiveyearold,safety,security administration 
+123,13,123_sprayers_dryness_enough_watering,no water,maintenance
+124,13,124_maintained_property_badly_regularly,grass,landscape construction and management
+125,13,125_staff_staffing_nbspstaffingdis_labor,weeds,landscape construction and management
+126,13,126_locate_request_contact_info,customer service,customer service
+127,13,127_dumping_illegal_my_temple,maintenance ,maintenance 
+128,13,128_budget_cuts_guidance_longterm,maintenance ,maintenance 
+129,13,129_customer_service_survey_quick,customer service,customer service
+130,12,130_trimmed_trimming_trespassingtree_susan,tree_pruning,landscape construction and management
+131,12,131_upkeep_inefficiency_gratitude_disrespectful,grass,landscape construction and management
+132,12,132_as_diamond_soon_ball,maintenance ,maintenance 
+133,12,133_mesunflowers_datesweeds_surfaceweeds_rdweeds,weeds,landscape construction and management
+134,12,134_damage_park_potential_ecosystem,maintenance,maintenance 
+135,12,135_easement_grassy_mowing_long,grass,landscape construction and management
+136,11,136_health_thistrees_hertree_diseased,tree,landscape construction and management
+137,11,137_matterlack_maintaince_map_down,grass,landscape construction and management
+138,11,138_icy_entire_surfaces_covering,ice,winter service
+139,11,139_geese_goose_bird_droppings,poop,sanitary
+140,11,140_mowed_mowedl_must_which,mow,landscape construction and management
+141,11,141_length_grass_workers_mosquitoes,grass_cut,landscape construction and management
+142,11,142_leakage_flow_leak_retention,leak,maintenance
+143,11,143_tall_height_purple_weedstall,weeds,landscape construction and management
+144,11,144_much_snow_removal_insufficient,snow,winter service
+145,11,145_cleaning_up_clean_biohazard,clean,sanitary
+146,11,146_leaking_sprinkler_leaky_lid,sprinkler,maintenance
+147,11,147_regina_sk_north_corner,maintenance,maintenance
+148,11,148_sidewalk_obstruction_inaccessible_sidewalks,sidewalk,security administration 
+149,10,149_city_workers_accountability_hello,maintenance,maintenance
+150,10,150_mowing_weed_control_weeding,weeds,landscape construction and management
+151,10,151_response_message_messageirrigation_messagelittering,customer service,customer service
